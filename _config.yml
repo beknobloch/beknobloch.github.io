@@ -31,7 +31,6 @@ linkedin_username: benjamin-knobloch
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
-- jekyll-remote-theme
 - jekyll-feed
 
 # theme: minima
