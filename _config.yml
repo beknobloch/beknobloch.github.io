@@ -32,6 +32,7 @@ linkedin_username: benjamin-knobloch
 theme: minima
 plugins:
 - jekyll-feed
+- jekyll-seo-tag
 
 # theme: minima
 
