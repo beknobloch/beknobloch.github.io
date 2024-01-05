@@ -2,5 +2,27 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
+title: About me
+
 ---
+
+<div class="row">
+
+    <div class="column"><img src="/assets/images/SkyBackground.jpg" alt="Ben Knobloch in front of a sky-blue background." style="width:250px"></div>
+
+    <div class="column">
+    
+        <h3>Hi there! I'm <strong>Ben Knobloch</strong>.</h3>
+        
+        <p>I'm an undergraduate student of Software Engineering at Stevens Institute of Technology, currently in my Junior year.</p>
+
+        <p>Some of my other interests include history, <a href="https://www.goodreads.com/benknobloch" target="_blank">reading</a>, and math, and I always carry around a deck of cards.</p>
+
+        <p>Check my nearby <a href="/blog">blog posts</a> for updates and musings.</p>
+    
+        <img src="/assets/signature.png" alt="The name Benjamin Knobloch in a handwriting-style font." height="40px">
+
+    </div>
+
+</div>

@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ben Knobloch
+title: Benjamin Knobloch
 email: bknobs4@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! My name is Benjamin Knobloch, and I'm studying software engineering at Stevens Institute of Technology.
-  This website details my experiences, skills, and other facts about me.
-#baseurl: "beknobloch.github.io" # the subpath of your site, e.g. /blog
+  This website details my experiences, skills, and other things about me.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://beknobloch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  beknobloch
 linkedin_username: benjamin-knobloch
@@ -33,8 +33,13 @@ theme: minima
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
+timezone: America/New_York
 
-# theme: minima
+header_pages:
+  - blog.markdown
+  - resume.markdown
+  - experience.markdown
+  - skills.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

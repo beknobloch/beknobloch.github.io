@@ -1,0 +1,83 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+// Display my logo before each instance of the site header
+.site-title::before {
+	content: url("/assets/favicon.png");
+	display: inline-block;
+	position: relative;
+	width: 37;
+	top: 5px;
+    right: 5px;
+}
+// Display "open in new tab" after links with the appropriate target.
+a[target="_blank"].icon::after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+    margin: 0 3px 0 5px;
+}
+
+.row {
+    display: flex;
+}
+.row.gap {
+    gap: 10px;
+    margin-bottom: 10px;
+}
+  
+.column {
+    flex: 50%;
+}
+
+.bordered {
+    border-style: solid;
+    border-color: navy;
+    background-color: rgb(207, 225, 231);
+
+    hr.strong_divider {
+        margin-bottom:10px;
+        height:2px;
+        background-color:black;
+    }
+    hr.medium_divider {
+            width:90%;
+            margin-bottom:10px;
+            height:1px;
+            background-color:darkcyan;
+        }
+}
+.bordered h4 {
+    margin-left: 17px;
+    margin-top: 12px;
+}
+
+.ex_e {
+    margin-bottom: 17px;
+    margin-left: 17px;
+    margin-right: 15px;
+
+    .ex_name {
+        font-weight: bold;
+        margin-left: 0px;
+    }
+    a.ex_name:hover {
+        cursor: pointer;
+    }
+
+    .ex_title {
+        color: rgb(0, 118, 118);
+        font-weight: bold;
+        font-style: italic;
+    }
+    .ex_subtitle, .ex_date{
+        margin-left: 10px;
+        font-size: 10px;
+    }
+    .ex_description{
+        color: rgb(0, 72, 72);
+        margin-left: 5px;
+        font-size: 14px;
+    }
+}
