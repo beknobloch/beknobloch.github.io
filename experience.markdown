@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Experience
+title: Experiences
 permalink: /experience/
 ---
 
@@ -11,7 +11,7 @@ permalink: /experience/
         <hr class="strong_divider">
 
         <div class="ex_e">
-            <div class="ex_name"><a href="https://ducklink.stevens.edu/ewb/home/" target="_blank" class="icon">Stevens Institute of Technology</a></div>
+            <div class="ex_name"><a href="" target="_blank" class="icon">Stevens Institute of Technology</a></div>
             <div class="ex_title">Bachelor's Degree in Software Engineering</div>
             <div class="ex_date">(Aug 2021 - May 2025)</div>
             <div class="ex_description">Select coursework: Agile Software Dev., Modeling & Simulation, Software Req. Anal. & Eng., Eng. Economics & Project Management, Database Management Systems, Data Structures & Algorithms, Discrete Mathematics</div>
