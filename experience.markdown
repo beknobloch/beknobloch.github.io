@@ -4,8 +4,22 @@ title: My Experience
 permalink: /experience/
 ---
 
----
+<div class="row gap">
 
+    <div class="column bordered">
+        <h4><strong>Education history</strong></h4>
+        <hr class="strong_divider">
+
+        <div class="ex_e">
+            <div class="ex_name"><a href="https://ducklink.stevens.edu/ewb/home/" target="_blank" class="icon">Stevens Institute of Technology</a></div>
+            <div class="ex_title">Bachelor's Degree in Software Engineering</div>
+            <div class="ex_date">(Aug 2021 - May 2025)</div>
+            <div class="ex_description">Select coursework: Agile Software Dev., Modeling & Simulation, Software Req. Anal. & Eng., Eng. Economics & Project Management, Database Management Systems, Data Structures & Algorithms, Discrete Mathematics</div>
+        </div>
+
+    </div>
+
+</div>
 
 <div class="row gap">
 
@@ -67,9 +81,9 @@ permalink: /experience/
         <hr class="strong_divider">
 
         <div class="ex_e">
-            <div class="ex_name"><a href="" target="_blank" class="icon">Engineers Without Borders SIT</a></div>
+            <div class="ex_name"><a href="https://ducklink.stevens.edu/ewb/home/" target="_blank" class="icon">Engineers Without Borders SIT</a></div>
             <div class="ex_title">Vice President</div>
-            <div class="ex_description">Test</div>
+            <div class="ex_description"></div>
             <div class="ex_date">(Sep 2023 - )</div>
             <div class="ex_title">Secretary</div>
             <div class="ex_date">(Jan 2023 - Sep 2023)</div>
@@ -78,9 +92,9 @@ permalink: /experience/
         <hr class="medium_divider">
 
         <div class="ex_e">
-            <div class="ex_name"><a href="" target="_blank" class="icon">Stevens Honor Board</a></div>
+            <div class="ex_name"><a href="https://stevens.smartcatalogiq.com/en/2021-2022/academic-catalog/academic-integrity/honor-system-for-undergraduate-students/" target="_blank" class="icon">Stevens Honor Board</a></div>
             <div class="ex_title">Recording Secretary</div>
-            <div class="ex_description">Test</div>
+            <div class="ex_description"></div>
             <div class="ex_date">(Jan 2023 - Dec 2023)</div>
             <div class="ex_title">General Member</div>
             <div class="ex_date">(April 2022 -)</div>
@@ -95,6 +109,24 @@ permalink: /experience/
             <div class="ex_name"><a href="https://www.tbp.org/home.cfm" target="_blank" class="icon">Tau Beta Pi membership</a></div>
             <div class="ex_subtitle">(attained at earliest eligibility)</div>
             <div class="ex_description">TBP is a prestigious undergraduate engineering honor society.</div>
+        </div>
+
+        <div class="ex_e">
+            <div class="ex_name">Dean's List in all semesters</div>
+            <div class="ex_subtitle">(Stevens Institute of Technology)</div>
+            <div class="ex_description"></div>
+        </div>
+
+        <div class="ex_e">
+            <div class="ex_name">Edwin A. Stevens Scholarship</div>
+            <div class="ex_subtitle"></div>
+            <div class="ex_description"></div>
+        </div>
+
+        <div class="ex_e">
+            <div class="ex_name">Stevens Presidential Scholarship</div>
+            <div class="ex_subtitle"></div>
+            <div class="ex_description"></div>
         </div>
 
     </div>
