@@ -17,6 +17,7 @@ permalink: /skills/
             <div class="ex_name">C++</div>
             <div class="ex_name">JavaScript</div>
             <div class="ex_name">TypeScript</div>
+            <div class="ex_name">SQL</div>
             <div class="ex_name">HTML</div>
             <div class="ex_name">CSS</div>
         </div>

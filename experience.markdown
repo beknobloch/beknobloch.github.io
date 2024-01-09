@@ -11,9 +11,10 @@ permalink: /experience/
         <hr class="strong_divider">
 
         <div class="ex_e">
-            <div class="ex_name"><a href="" target="_blank" class="icon">Stevens Institute of Technology</a></div>
+            <div class="ex_name"><a href="https://www.linkedin.com/school/stevens-institute-of-technology" target="_blank" class="icon">Stevens Institute of Technology</a></div>
             <div class="ex_title">Bachelor's Degree in Software Engineering</div>
             <div class="ex_date">(Aug 2021 - May 2025)</div>
+            <div class="ex_description">Pinnacle Scholar. 4.0 / 4.0 GPA.</div>
             <div class="ex_description">Select coursework: Agile Software Dev., Modeling & Simulation, Software Req. Anal. & Eng., Eng. Economics & Project Management, Database Management Systems, Data Structures & Algorithms, Discrete Mathematics</div>
         </div>
 
@@ -34,7 +35,7 @@ permalink: /experience/
         </div>
         <hr class="medium_divider">
         <div class="ex_e">
-            <div class="ex_name"><a href="https://ui.adsabs.harvard.edu/abs/2023LPICo2806.2937R/abstract" target="_blank" class="icon">Assessing Mercury Landing Sites</a></div>
+            <div class="ex_name"><a href="https://ui.adsabs.harvard.edu/abs/2023LPICo2806.2937R/abstract" target="_blank" class="icon">Assessing Mercury Landing Site Properties with Messenger High-Resolution Image Data</a></div>
             <div class="ex_title">Rabinovitch Research Group</div>
             <div class="ex_description"></div>
             <div class="ex_date">(May 2022 - Mar 2023)</div>
