@@ -7,3 +7,10 @@ permalink: /photography/
 ---
 
 <img src="../assets/photos/candy-colored_clouds.jpg" alt="candy-colored clouds">
+
+<img src="../assets/photos/farm_turn.jpg" alt="farm turn" width="40%">
+<img src="../assets/photos/horse_farm.jpg" alt="horse farm" width="40%">
+
+<img src="../assets/photos/mesa_houses.jpg" alt="mesa-top houses">
+
+<img src="../assets/photos/twilight_gradient.jpg" alt="twilight gradient">
