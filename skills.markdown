@@ -80,8 +80,13 @@ permalink: /skills/
         <hr class="strong_divider">
 
         <div class="ex_e">
+            <div class="ex_name"><a href="files/photography.markdown">Photography</a></div>
+            <div class="ex_description">see some of my work here</div>
+        </div>
+
+        <div class="ex_e">
             <div class="ex_name"><a href="https://www.goodreads.com/benknobloch" target="_blank" class="icon">Reading</a></div>
-            <div class="ex_description">especially classic novels and science fiction</div>
+            <div class="ex_description">especially literary fiction, science fiction, and classics</div>
         </div>
 
         <div class="ex_e">
