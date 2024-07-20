@@ -80,7 +80,7 @@ permalink: /skills/
         <hr class="strong_divider">
 
         <div class="ex_e">
-            <div class="ex_name"><a href="files/photography.markdown">Photography</a></div>
+            <div class="ex_name"><a href="/photography">Photography</a></div>
             <div class="ex_description">see some of my work here</div>
         </div>
 
