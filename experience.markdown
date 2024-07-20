@@ -55,6 +55,13 @@ permalink: /experience/
         <hr class="strong_divider">
 
         <div class="ex_e">
+            <div class="ex_name"><a href="https://www.lanl.gov" target="_blank" class="icon">Los Alamos National Laboratory</a></div>
+            <div class="ex_title">Intern, Applied Computer Science</div>
+            <div class="ex_description"></div>
+            <div class="ex_date">(May 2024 - August 2024)</div>
+        </div>
+
+        <div class="ex_e">
             <div class="ex_name"><a href="https://www.stevens.edu/academic-support-center" target="_blank" class="icon">Academic Support Center</a></div>
             <div class="ex_title">Peer Tutor</div>
             <div class="ex_description"></div>
