@@ -15,11 +15,10 @@ permalink: /skills/
             <div class="ex_name">Java</div>
             <div class="ex_name">C#</div>
             <div class="ex_name">C++</div>
-            <div class="ex_name">JavaScript</div>
-            <div class="ex_name">TypeScript</div>
-            <div class="ex_name">SQL</div>
-            <div class="ex_name">HTML</div>
-            <div class="ex_name">CSS</div>
+            <div class="ex_name">JavaScript / TypeScript</div>
+            <div class="ex_name">BASH & Shell</div>
+            <div class="ex_name">SQL+Relational Algebra+DBML</div>
+            <div class="ex_name">HTML+CSS</div>
         </div>
 
     </div>
@@ -47,6 +46,11 @@ permalink: /skills/
     <div class="column bordered">
         <h4><strong>Tools and Platforms</strong></h4>
         <hr class="strong_divider">
+
+        <div class="ex_e tools">
+            <div class="ex_name">Unix CLI</div>
+            <div class="ex_description">for high performance computing (inc. Vim, Slurm, and Tmux)</div>
+        </div>
 
         <div class="ex_e tools">
             <div class="ex_name">GitHub and Git</div>
