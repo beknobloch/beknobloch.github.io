@@ -30,11 +30,11 @@ permalink: /skills/
         <div class="ex_e wrap">
             <div class="ex_name">Pandas</div>
             <div class="ex_name">NumPy</div>
+            <div class="ex_name">SQLite</div>
             <div class="ex_name">Gurobi Optimizer</div>
             <div class="ex_name">Tkinter</div>
             <div class="ex_name">Node.js</div>
             <div class="ex_name">React Native</div>
-            <div class="ex_name">Jekyll</div>
         </div>
 
     </div>
