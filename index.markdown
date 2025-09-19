@@ -19,7 +19,7 @@ title: About me
 
         <p>I write software using a variety of languages and frameworks, including Python, Java, and webdev.</p>
 
-        <p>Check my nearby <a href="/blog">blog posts</a> for updates and musings, and <a href="/experience">check out more about me here.</a></p>
+        <p><a href="/experience">Check out more about me here.</a></p>
     
         <img src="/assets/signature.png" alt="The name Benjamin Knobloch in a handwriting-style font." height="40px">
 

@@ -36,7 +36,6 @@ plugins:
 timezone: America/New_York
 
 header_pages:
-  - blog.markdown
   - resume.markdown
   - experience.markdown
   - skills.markdown

@@ -11,13 +11,22 @@ permalink: /experience/
         <hr class="strong_divider">
 
         <div class="ex_e">
+            <div class="ex_name"><a href="https://www.linkedin.com/school/cornell-university/posts/?feedView=all" target="_blank" class="icon">Cornell University</a></div>
+            <div class="ex_title">MEng in Computer Science</div>
+            <div class="ex_date">(Aug 2025 - May 2026)</div>
+            <div class="ex_description">4.0 / 4.0 GPA.</div>
+            <div class="ex_description">Select coursework: Generative AI, Systems for Large-Scale ML, Human Computation, Legal Semantic Systems Research Project</div>
+        </div>
+
+        <hr class="medium_divider">
+
+        <div class="ex_e">
             <div class="ex_name"><a href="https://www.linkedin.com/school/stevens-institute-of-technology" target="_blank" class="icon">Stevens Institute of Technology</a></div>
-            <div class="ex_title">Bachelor's Degree in Software Engineering</div>
+            <div class="ex_title">BEng in Software Engineering</div>
             <div class="ex_date">(Aug 2021 - May 2025)</div>
             <div class="ex_description">Pinnacle Scholar. 4.0 / 4.0 GPA.</div>
             <div class="ex_description">Select coursework: Agile Software Dev., Modeling & Simulation, Software Req. Anal. & Eng., Eng. Economics & Project Management, Database Management Systems, Data Structures & Algorithms, Discrete Mathematics</div>
         </div>
-
     </div>
 
 </div>
@@ -58,7 +67,7 @@ permalink: /experience/
             <div class="ex_name"><a href="https://www.lanl.gov" target="_blank" class="icon">Los Alamos National Laboratory</a></div>
             <div class="ex_title">Intern, Applied Computer Science</div>
             <div class="ex_description"></div>
-            <div class="ex_date">(May 2024 - August 2024)</div>
+            <div class="ex_date">(May 2024 - September 2025)</div>
         </div>
 
         <div class="ex_e">

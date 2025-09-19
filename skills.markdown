@@ -84,7 +84,7 @@ permalink: /skills/
         <hr class="strong_divider">
 
         <div class="ex_e">
-            <div class="ex_name"><a href="/photography">Photography</a></div>
+            <div class="ex_name"><a href="https://www.flickr.com/photos/202863698@N08/">Photography</a></div>
             <div class="ex_description">see some of my work here</div>
         </div>
 
