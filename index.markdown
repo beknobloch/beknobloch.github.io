@@ -15,9 +15,9 @@ title: About me
     
         <h3>Hi there! I'm <strong>Ben Knobloch</strong>.</h3>
         
-        <p>I'm an undergraduate student of Software Engineering at Stevens Institute of Technology, currently in my Junior year.</p>
+        <p>I'm pursuing an M'Eng in Computer Science at Cornell University.</p>
 
-        <p>I write software using a variety of languages and frameworks, including Python, Java, and webdev.</p>
+        <p>My primary areas of interest are in NLP and AI/ML development - I also write software in a variety of languages and frameworks, including Python, Java, and webdev.</p>
 
         <p><a href="/experience">Check out more about me here.</a></p>
     
